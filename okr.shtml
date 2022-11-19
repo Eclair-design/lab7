@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<!--#set var="TITLE" value="Переменные Окружения" -->
+<!--#include file="ssi/top.shtml"-->
+<body>
+	<!--#include file="ssi/up.shtml"-->
+	<!--#printenv -->
+	<!--#include file="ssi/bottom.shtml"-->
+</body>
+</html>

@@ -1,0 +1,10 @@
+<head>
+    <meta charset="UTF-8">
+    <META HTTP-EQUIV="Content-Language" CONTENT="RU-ru"> 
+    <META NAME="Description" CONTENT="html разметка для лабораторной работы"> 
+    <META NAME="Keywords" CONTENT="Лабораторная Работа"> 
+    <META NAME="Author" CONTENT="Спиридонова Глория"> 
+    <meta http-equiv="refresh" content="60">
+    <link rel="stylesheet" href="css/main.css">
+    <title><!--#echo var="TITLE" --></title>
+</head>

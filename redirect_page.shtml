@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<!--#set var="TITLE" value="Redirect" -->
+<!--#include file="ssi/top.shtml"-->
+<meta http-equiv="refresh" content="10; url=https://www.kstu.ru/" />
+<body>
+    <a href="index.html">На главную</a>
+    <p>Через 10 секунд вы будите автоматически перенаправлены на сайт www.kstu.ru</p>
+</body>
+</html>

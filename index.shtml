@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<!--#set var="TITLE" value="Главная Страницы" -->
+<!--#include file="ssi/top.shtml"-->
+<body>
+    <!--#include file="ssi/up.shtml"-->
+    <table border="1" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <th width="20%">Лабораторные Работы</th>
+            <th width="80%">Информация о студенте</th>
+        </tr>
+        <tr>
+            <!--#include file="ssi/left.shtml"-->     
+            <!--#include file="ssi/right.shtml"-->      
+        </tr>
+    </table>
+    <!--#include file="ssi/bottom.shtml"-->
+</body>
+</html>

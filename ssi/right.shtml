@@ -1,0 +1,22 @@
+<td width="80%">
+    <ul>
+        <li><p>Спиридонова Г.О</p></li>
+        <li><p>Группа 1211-23</p></li>
+        <li><a href="redirect_page.shtml" title="ВУЗ">КНИТУ-КХТИ</a></li>
+    </ul>
+    <ul>
+        <!--#config sizefmt="bytes" -->
+        <li>Размер Файла <!--#fsize file="right.shtml" --> bytes</li>
+        <li>Дата последней модификации файла <!--#flastmod file="right.shtml" --></li>
+        <li>IP адрес <!--#echo var="REMOTE_ADDR"--></li>
+        <li>Номер порта <!--#echo var="REMOTE_PORT"--></li>
+        <li>Браузер <!--#echo var="HTTP_USER_AGENT"--></li>
+        <li>Имя сервера <!--#echo var="SERVER_NAME"--></li>
+        <li>Номер порта сервера <!--#echo var="SERVER_PORT"--></li>
+        <li>Какой HTTP сервер установлен <!--#echo var="SERVER_SOFTWARE"--></li>
+        <li>Протокол, который поддерживает сервер <!--#echo var="SERVER_PROTOCOL"--></li>
+        <li>С какой страницы вы пришли <!--#echo var="HTTP_REFERER"--></li>
+        <li>URI документа <!--#echo var="DOCUMENT_URI"--></li>
+        <li>Название файла текущего документа <!--#echo var="DOCUMENT_NAME"--></li>
+    </ul>
+</td>
